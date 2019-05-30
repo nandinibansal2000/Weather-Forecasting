@@ -7,8 +7,6 @@ from a1 import get_pressure
 from a1 import get_wind
 from a1 import get_sealevel
 
-# TEST cases should cover the different boundary cases.
-
 
 
 
