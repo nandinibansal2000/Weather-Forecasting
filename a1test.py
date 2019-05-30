@@ -7,10 +7,17 @@ from a1 import get_pressure
 from a1 import get_wind
 from a1 import get_sealevel
 
+# TEST cases should cover the different boundary cases.
 
 #TEST CASES
 
+<<<<<<< HEAD
 class testpoint(unittest.):
+=======
+
+#test cases
+class testpoint(unittest.TestCase):
+>>>>>>> new
 	
 			
 	def test_has_error(self):
