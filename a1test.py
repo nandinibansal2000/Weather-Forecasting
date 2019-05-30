@@ -8,9 +8,9 @@ from a1 import get_wind
 from a1 import get_sealevel
 
 
+#TEST CASES
 
-
-class testpoint(unittest.TestCase):
+class testpoint(unittest.):
 	
 			
 	def test_has_error(self):
